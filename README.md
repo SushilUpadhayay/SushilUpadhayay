@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineering Student | Flutter Developer | Data Analytics Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sushil Upadhayay &label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=SushilUpadhayay&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 ## 🧠 About Me
 
@@ -33,24 +33,24 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SushilUpadhayay&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SushilUpadhayay&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SushilUpadhayay&theme=tokyo-night" />
 </p>
 ## 📌 Featured Projects
 
-### 🧠 Offline AI Assistant (Flutter)
-🔹 Fully offline mobile assistant using on-device models  
-🔹 Privacy-first design, no internet dependency  
-🔹 Speech-to-text, summarization, chat  
+### 🧠 Sentimetrics AI
+🔹 An intelligent stock analysis system for **NEPSE**, integrating historical price trends with real-time news sentiment  
+🔹 Uses **machine learning** and **natural language processing (NLP)** to evaluate market behavior and investor sentiment  
+🔹 Designed to assist in understanding stock performance patterns and decision support  
 
-**Tech:** Flutter, FFI, Local AI Models
+**Tech:** Python, Pandas, Scikit-learn, NLP, Data Visualization
 
 ---
 
