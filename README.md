@@ -4,14 +4,15 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SushilUpadhayay&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-## 🧠 About Me
+
+## 🧠 About me
 
 - 🚀 Passionate about building **real-world software**, not just demos  
 - 📱 Focused on **Flutter apps** with offline-first & privacy-aware design  
 - 📊 Love turning raw data into **clear insights & dashboards**  
 - 🤖 Exploring **AI & on-device intelligence**  
 - 🌱 Always learning, always improving
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 🧠 About me
 
 ### 👨‍💻 Languages
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
