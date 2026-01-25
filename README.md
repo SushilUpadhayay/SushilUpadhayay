@@ -69,7 +69,7 @@ My interests lie at the intersection of **mobile development, data analysis, and
 </p>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/SushilUpadhayay?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=0&plugin_streak=1&plugin_streak_days=30&plugin_streak_mode=calendar&plugin_activity=1&plugin_activity_days=14&plugin_activity_limit=5&theme=tokyonight" />
+  <img src="https://metrics.lecoq.io/SushilUpadhayay?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&plugin_calendar=1&plugin_calendar_limit=1&plugin_streak=1&plugin_streak_days=30&theme=tokyonight" />
 </p>
 
 <p align="center">
