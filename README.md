@@ -65,9 +65,7 @@ Computer Engineering Student • Flutter Developer • Data Analytics Enthusiast
   <img src="https://github-readme-stats.vercel.app/api?username=SushilUpadhayay&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/SushilUpadhayay?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&plugin_streak=1&plugin_streak_days=30&plugin_streak_mode=calendar&theme=tokyonight" />
-</p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SushilUpadhayay&theme=tokyo-night" /> </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushilUpadhayay&layout=compact&theme=tokyonight" />
