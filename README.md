@@ -11,11 +11,14 @@ Computer Engineering Student • Flutter Developer • Data Analytics Enthusiast
 
 ## 🧠 About Me
 
-- 🚀 Passionate about building **real-world software**, not just demos  
-- 📱 Focused on **Flutter applications** with clean UI and offline-first ideas  
-- 📊 Enjoy turning raw data into **meaningful insights and dashboards**  
-- 🤖 Exploring **machine learning and intelligent systems**  
-- 🌱 Always learning, improving, and refining fundamentals  
+I am a **Computer Engineering student** who enjoys building systems that solve **real-world problems**, not just academic demos.  
+My interests lie at the intersection of **mobile development, data analysis, and intelligent systems**.
+
+- 🚀 Focused on practical, real-world software  
+- 📱 Building Flutter applications with clean UI and offline-first ideas  
+- 📊 Turning raw data into meaningful insights  
+- 🤖 Exploring machine learning and applied AI  
+- 🌱 Constantly learning and refining fundamentals  
 
 ---
 
@@ -65,11 +68,15 @@ Computer Engineering Student • Flutter Developer • Data Analytics Enthusiast
   <img src="https://github-readme-stats.vercel.app/api?username=SushilUpadhayay&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SushilUpadhayay&theme=tokyo-night" /> </p>
+<p align="center">
+  <img src="https://metrics.lecoq.io/SushilUpadhayay?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=0&plugin_streak=1&plugin_streak_days=30&plugin_streak_mode=calendar&plugin_activity=1&plugin_activity_days=14&plugin_activity_limit=5&theme=tokyonight" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushilUpadhayay&layout=compact&theme=tokyonight" />
 </p>
+
+---
 
 ## 📌 Featured Projects
 
@@ -77,7 +84,7 @@ Computer Engineering Student • Flutter Developer • Data Analytics Enthusiast
 - Intelligent stock analysis system for **NEPSE**  
 - Combines historical stock trends with **news sentiment analysis**  
 - Uses **machine learning and NLP** to study market behavior  
-- Designed for analytical insight and decision support  
+- Designed to support analytical insight and decision-making  
 
 **Tech:** Python, Pandas, Scikit-learn, NLP, Data Visualization  
 
@@ -85,8 +92,8 @@ Computer Engineering Student • Flutter Developer • Data Analytics Enthusiast
 
 ### 🚁 Drone Manager App
 - Inventory, repair, and sales management system  
-- Designed with **offline-first capability** and cloud sync  
-- Built for a real-world drone repair business  
+- Built with **offline-first capability** and cloud synchronization  
+- Designed for a real-world drone repair business  
 
 **Tech:** Flutter, Firestore  
 
@@ -94,7 +101,7 @@ Computer Engineering Student • Flutter Developer • Data Analytics Enthusiast
 
 ### 📊 Diwali Sales Data Analysis
 - Analyzed customer purchasing patterns during festive sales  
-- Performed **EDA** and data cleaning  
+- Performed data cleaning and **exploratory data analysis (EDA)**  
 - Built interactive dashboards for business insights  
 
 **Tech:** Python, Pandas, Power BI  
