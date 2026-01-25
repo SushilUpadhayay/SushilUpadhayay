@@ -1,17 +1,24 @@
 <h1 align="center">Hi, I'm Sushil 👋</h1>
-<h3 align="center">Computer Engineering Student | Flutter Developer | Data Analytics Enthusiast</h3>
+<h3 align="center">
+Computer Engineering Student • Flutter Developer • Data Analytics Enthusiast
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SushilUpadhayay&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-## 🧠 About me
+---
+
+## 🧠 About Me
 
 - 🚀 Passionate about building **real-world software**, not just demos  
-- 📱 Focused on **Flutter apps** with offline-first & privacy-aware design  
-- 📊 Love turning raw data into **clear insights & dashboards**  
-- 🤖 Exploring **AI & on-device intelligence**  
-- 🌱 Always learning, always improving
+- 📱 Focused on **Flutter applications** with clean UI and offline-first ideas  
+- 📊 Enjoy turning raw data into **meaningful insights and dashboards**  
+- 🤖 Exploring **machine learning and intelligent systems**  
+- 🌱 Always learning, improving, and refining fundamentals  
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming Languages
@@ -50,7 +57,9 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-## 📈 GitHub Stats
+---
+
+## 📈 GitHub Overview
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SushilUpadhayay&show_icons=true&theme=tokyonight" />
@@ -61,51 +70,61 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SushilUpadhayay&theme=tokyo-night" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushilUpadhayay&layout=compact&theme=tokyonight" />
 </p>
+
+---
 
 ## 📌 Featured Projects
 
 ### 🧠 Sentimetrics AI
-🔹 An intelligent stock analysis system for **NEPSE**, integrating historical price trends with real-time news sentiment  
-🔹 Uses **machine learning** and **natural language processing (NLP)** to evaluate market behavior and investor sentiment  
-🔹 Designed to assist in understanding stock performance patterns and decision support  
+- Intelligent stock analysis system for **NEPSE**  
+- Combines historical stock trends with **news sentiment analysis**  
+- Uses **machine learning and NLP** to study market behavior  
+- Designed for analytical insight and decision support  
 
-**Tech:** Python, Pandas, Scikit-learn, NLP, Data Visualization
+**Tech:** Python, Pandas, Scikit-learn, NLP, Data Visualization  
 
 ---
 
 ### 🚁 Drone Manager App
-🔹 Inventory, repair, and sales tracking  
-🔹 Offline-first with cloud sync  
-🔹 Built for real drone repair business  
+- Inventory, repair, and sales management system  
+- Designed with **offline-first capability** and cloud sync  
+- Built for a real-world drone repair business  
 
-**Tech:** Flutter, Firestore
+**Tech:** Flutter, Firestore  
 
 ---
 
 ### 📊 Diwali Sales Data Analysis
-🔹 Customer behavior analysis  
-🔹 Interactive dashboards & EDA  
-🔹 Actionable business insights  
+- Analyzed customer purchasing patterns during festive sales  
+- Performed **EDA** and data cleaning  
+- Built interactive dashboards for business insights  
 
-**Tech:** Python, Pandas, Power BI
+**Tech:** Python, Pandas, Power BI  
+
+---
+
 ## 📚 Currently Learning
 
-- 🧩 Advanced Flutter architecture
-- 🤖 Machine Learning fundamentals
-- 🧠 System design concepts
-- 📈 Better data storytelling
+- 🧩 Advanced Flutter architecture  
+- 🤖 Machine learning fundamentals  
+- 🧠 System design concepts  
+- 📈 Data storytelling and visualization  
+
+---
+
 ## 🤝 Let’s Connect
 
-<p align="left">
-  <a href="upadhayaysushil.connect@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+<p>
+  <a href="mailto:upadhayaysushil.connect@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/sushil-upadhayay-70047b390/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 </p>
----
-⭐ Always curious. Always building. Always learning.
 
+---
+
+⭐ *Always curious. Always building. Always learning.*
