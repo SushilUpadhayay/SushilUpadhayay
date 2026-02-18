@@ -74,6 +74,9 @@ My interests lie at the intersection of **mobile development, data analysis, and
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushilUpadhayay&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SushilUpadhayay&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
