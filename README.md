@@ -68,18 +68,12 @@ My interests lie at the intersection of **mobile development, data analysis, and
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SushilUpadhayay&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SushilUpadhayay&theme=tokyo-night&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushilUpadhayay&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/github/followers/SushilUpadhayay?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/SushilUpadhayay?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/SushilUpadhayay/your-repo-name?style=for-the-badge" />
-</p>
-
 
 ---
 
