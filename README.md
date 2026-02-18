@@ -64,10 +64,6 @@ My interests lie at the intersection of **mobile development, data analysis, and
 
 ## 📈 GitHub Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SushilUpadhayay&show_icons=true&theme=tokyonight" />
-</p>
-
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SushilUpadhayay&theme=tokyo-night" /> </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushilUpadhayay&layout=compact&theme=tokyonight" />
