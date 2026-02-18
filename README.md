@@ -64,18 +64,15 @@ My interests lie at the intersection of **mobile development, data analysis, and
 
 ## 📈 GitHub Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SushilUpadhayay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=SushilUpadhayay&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/SushilUpadhayay" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SushilUpadhayay&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushilUpadhayay&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SushilUpadhayay&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
