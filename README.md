@@ -4,6 +4,10 @@
   Computer Engineering Student • Software Developer • AI/ML Enthusiast
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SushilUpadhayay&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 ## 🧠 About Me
@@ -29,8 +33,4 @@ I’m a **Computer Engineering student** interested in building practical softwa
   <a href="https://www.linkedin.com/in/sushil-upadhayay-70047b390/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  ⭐ Always learning, building, and exploring new technologies.
 </p>
